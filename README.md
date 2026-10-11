@@ -55,7 +55,7 @@ O enunciado manda supor que temos acesso aos dados. Estes campos **não existem 
 
 ## 🧠 O que aprendi
 
-[Escreva 2 ou 3 frases com suas palavras. Por exemplo: a diferença entre fato e dimensão, o que é granularidade, e por que uma dimensão de datas ajuda nas análises.]
+Aprendi a diferença entre fato e dimensão, o que é granularidade, e por que uma dimensão de datas ajuda nas análises.
 
 ## 🔗 Referências
 
